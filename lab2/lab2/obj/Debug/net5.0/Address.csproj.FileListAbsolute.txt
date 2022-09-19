@@ -1,0 +1,16 @@
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\bin\Debug\net5.0\Address.exe
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\bin\Debug\net5.0\Address.deps.json
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\bin\Debug\net5.0\Address.runtimeconfig.json
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\bin\Debug\net5.0\Address.runtimeconfig.dev.json
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\bin\Debug\net5.0\Address.dll
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\bin\Debug\net5.0\ref\Address.dll
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\bin\Debug\net5.0\Address.pdb
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\Address.csproj.AssemblyReference.cache
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\Address.AssemblyInfoInputs.cache
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\Address.AssemblyInfo.cs
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\Address.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\Address.dll
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\ref\Address.dll
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\Address.pdb
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\lab2\obj\Debug\net5.0\Address.genruntimeconfig.cache

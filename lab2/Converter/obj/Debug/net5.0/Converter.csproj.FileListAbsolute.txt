@@ -1,0 +1,15 @@
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\bin\Debug\net5.0\Converter.exe
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\bin\Debug\net5.0\Converter.deps.json
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\bin\Debug\net5.0\Converter.runtimeconfig.json
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\bin\Debug\net5.0\Converter.runtimeconfig.dev.json
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\bin\Debug\net5.0\Converter.dll
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\bin\Debug\net5.0\ref\Converter.dll
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\bin\Debug\net5.0\Converter.pdb
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\obj\Debug\net5.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\obj\Debug\net5.0\Converter.AssemblyInfoInputs.cache
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\obj\Debug\net5.0\Converter.AssemblyInfo.cs
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\obj\Debug\net5.0\Converter.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\obj\Debug\net5.0\Converter.dll
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\obj\Debug\net5.0\ref\Converter.dll
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\obj\Debug\net5.0\Converter.pdb
+D:\Учеба\2 курс\1 Семестр\ООП\lab2\Converter\obj\Debug\net5.0\Converter.genruntimeconfig.cache
